@@ -1,0 +1,14 @@
+/home/dent/Repos/dotnet/18.10-HW-TicTacToe/obj/Debug/net8.0/18.10-HW-TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/home/dent/Repos/dotnet/18.10-HW-TicTacToe/obj/Debug/net8.0/18.10-HW-TicTacToe.AssemblyInfoInputs.cache
+/home/dent/Repos/dotnet/18.10-HW-TicTacToe/obj/Debug/net8.0/18.10-HW-TicTacToe.AssemblyInfo.cs
+/home/dent/Repos/dotnet/18.10-HW-TicTacToe/obj/Debug/net8.0/18.10-HW-TicTacToe.csproj.CoreCompileInputs.cache
+/home/dent/Repos/dotnet/18.10-HW-TicTacToe/bin/Debug/net8.0/18.10-HW-TicTacToe
+/home/dent/Repos/dotnet/18.10-HW-TicTacToe/bin/Debug/net8.0/18.10-HW-TicTacToe.deps.json
+/home/dent/Repos/dotnet/18.10-HW-TicTacToe/bin/Debug/net8.0/18.10-HW-TicTacToe.runtimeconfig.json
+/home/dent/Repos/dotnet/18.10-HW-TicTacToe/bin/Debug/net8.0/18.10-HW-TicTacToe.dll
+/home/dent/Repos/dotnet/18.10-HW-TicTacToe/bin/Debug/net8.0/18.10-HW-TicTacToe.pdb
+/home/dent/Repos/dotnet/18.10-HW-TicTacToe/obj/Debug/net8.0/18.10-HW-TicTacToe.dll
+/home/dent/Repos/dotnet/18.10-HW-TicTacToe/obj/Debug/net8.0/refint/18.10-HW-TicTacToe.dll
+/home/dent/Repos/dotnet/18.10-HW-TicTacToe/obj/Debug/net8.0/18.10-HW-TicTacToe.pdb
+/home/dent/Repos/dotnet/18.10-HW-TicTacToe/obj/Debug/net8.0/18.10-HW-TicTacToe.genruntimeconfig.cache
+/home/dent/Repos/dotnet/18.10-HW-TicTacToe/obj/Debug/net8.0/ref/18.10-HW-TicTacToe.dll

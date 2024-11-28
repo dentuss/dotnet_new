@@ -1,0 +1,14 @@
+/home/dent/Repos/dotnet/Exam/Exam/bin/Debug/net8.0/Exam
+/home/dent/Repos/dotnet/Exam/Exam/bin/Debug/net8.0/Exam.deps.json
+/home/dent/Repos/dotnet/Exam/Exam/bin/Debug/net8.0/Exam.runtimeconfig.json
+/home/dent/Repos/dotnet/Exam/Exam/bin/Debug/net8.0/Exam.dll
+/home/dent/Repos/dotnet/Exam/Exam/bin/Debug/net8.0/Exam.pdb
+/home/dent/Repos/dotnet/Exam/Exam/obj/Debug/net8.0/Exam.GeneratedMSBuildEditorConfig.editorconfig
+/home/dent/Repos/dotnet/Exam/Exam/obj/Debug/net8.0/Exam.AssemblyInfoInputs.cache
+/home/dent/Repos/dotnet/Exam/Exam/obj/Debug/net8.0/Exam.AssemblyInfo.cs
+/home/dent/Repos/dotnet/Exam/Exam/obj/Debug/net8.0/Exam.csproj.CoreCompileInputs.cache
+/home/dent/Repos/dotnet/Exam/Exam/obj/Debug/net8.0/Exam.dll
+/home/dent/Repos/dotnet/Exam/Exam/obj/Debug/net8.0/refint/Exam.dll
+/home/dent/Repos/dotnet/Exam/Exam/obj/Debug/net8.0/Exam.pdb
+/home/dent/Repos/dotnet/Exam/Exam/obj/Debug/net8.0/Exam.genruntimeconfig.cache
+/home/dent/Repos/dotnet/Exam/Exam/obj/Debug/net8.0/ref/Exam.dll
